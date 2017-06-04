@@ -1,6 +1,6 @@
 // Write your cade below:
 module.exports = function main() {
-  let a, b, c;
+  let a = 9, b = 4, c;
   c = a % b;
   return c;
 };
